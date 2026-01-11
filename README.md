@@ -1,0 +1,1 @@
+This project demonstrates how to containerize a Laravel application using Docker Compose, with Nginx as a web server, PHP-FPM for Laravel, and MySQL as the database. The setup follows DevOps best practices and is suitable for local development and learning containerized deployments.
